@@ -1,5 +1,7 @@
 → [EN](README.md)
 
+<img src="https://katharinanejdl.com/images/cover.png" alt="Type of Motion" width="50">
+
 # Type of Motion – _Experimentelle Typografie zwischen Körper, Bewegung und Interaktion_
 
 Welche Bewegung erzeugt welche Form? Wie verhält sich Typografie, wenn sie sich im (digitalen oder interaktiven) Raum verflüssigt und in ständiger Bewegung ist?

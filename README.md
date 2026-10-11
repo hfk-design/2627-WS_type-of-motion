@@ -1,5 +1,7 @@
 → [DE](README_de.md)
 
+<img src="https://katharinanejdl.com/images/cover.png" alt="Type of Motion" width="50">
+
 # Type of Motion – _Experimental typography between body, movement and interaction_
 
 Which movement creates which form? How does typography behave when it becomes fluid within a (digital or interactive) space and is in constant motion?
