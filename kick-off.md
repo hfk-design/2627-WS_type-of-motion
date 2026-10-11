@@ -105,11 +105,17 @@ We work with bodies, movement and each other a lot in this course, so we want to
 </details>
 
 <details>
-<summary><h3>14:00–17:00 | Input</h3></summary>
+<summary><h3>14:00–15:00 | Input</h3></summary>
 
 1. **Input: On Typography and Movement (TP)**
 2. **Skill-Share: Body-Tracking Examples (KN)**
-3. **References in groups of 2–3**
+
+</details>
+
+<details>
+<summary><h3>15:00–17:00 | Input</h3></summary>
+
+1. **References in groups of 2–3**
    - Choose a reference (artist, project, typeface, notation, performance, tool, technique, ...) about type & movement.
    - Prepare a short presentation [10min] for Thursday:
      - _What is it? Who made it, when?_
@@ -118,7 +124,7 @@ We work with bodies, movement and each other a lot in this course, so we want to
      - _How does it work?_
      - _What interests you about it?_
    - Alternatively: prepare a short skill-share [10min] – show the others a technique or tool you know.
-   - → \_link to [references](https://github.com/hfk-design/2627-WS_type-of-motion/blob/main/references.md)
+   - → _link to [references]_(https://github.com/hfk-design/2627-WS_type-of-motion/blob/main/references.md)
 
 </details>
 
