@@ -9,7 +9,7 @@ Welcome to Type of Motion! Over the first two days we'll get moving, get to know
 ## Day 1 | Tue 13.10.
 
 <details>
-<summary>09:30–10:30 | Movement</summary>
+<summary><h3>09:30–10:30 | Movement</h3></summary>
 
 1. **Arriving in the room [5min]**
    - [Laraaji, Brian Eno – _Ambient 3: Day of Radiance_ (1980), stretched](https://www.youtube.com/watch?v=G1xuZSP05Jo)
@@ -22,7 +22,7 @@ Welcome to Type of Motion! Over the first two days we'll get moving, get to know
 </details>
 
 <details>
-<summary>10:30–11:00 | Spatial Introduction</summary>
+<summary><h3>10:30–11:00 | Spatial Introduction</h3></summary>
 
 Position yourselves in the room according to the questions. Each position is a short moment to say your name and a sentence about why you're standing there.
 
@@ -47,14 +47,16 @@ Position yourselves in the room according to the questions. Each position is a s
 </details>
 
 <details>
-<summary>11:00–11:30 | Game for Two</summary>
+<summary><h3>11:00–11:30 | Game for Two</h3></summary>
 
-**Connection game** – in pairs
+Let’s get to know each other!
+
+1. **Connection game** – in pairs
 
 </details>
 
 <details>
-<summary>11:30–12:00 | Community Guidelines / Code of Conduct</summary>
+<summary><h3>11:30–12:00 | Code of Conduct</h3></summary>
 
 We work with bodies, movement and each other a lot in this course, so we want to agree on how we work together.
 
@@ -78,12 +80,12 @@ We work with bodies, movement and each other a lot in this course, so we want to
 </details>
 
 <details>
-<summary>12:00–13:00 | Lunch</summary>
+<summary><h3>12:00–13:00 | Lunch</h3></summary>
 
 </details>
 
 <details>
-<summary>13:00–14:00 | Organisation</summary>
+<summary><h3>13:00–14:00 | Organisation</h3></summary>
 
 1. **Schedule** → [README](README.md#dates)
    - Kick-off, workshops, lunch talk, interim & final presentation
@@ -106,7 +108,7 @@ We work with bodies, movement and each other a lot in this course, so we want to
 </details>
 
 <details>
-<summary>14:00–17:00 | Input</summary>
+<summary><h3>14:00–17:00 | Input</h3></summary>
 
 1. **Input: On Typography and Movement (TP)**
 2. **Skill-Share: Body-Tracking Examples (KN)**
@@ -128,7 +130,7 @@ We work with bodies, movement and each other a lot in this course, so we want to
 ## Day 2 | Thu 15.10.
 
 <details>
-<summary>09:30–09:45 | Check-In</summary>
+<summary><h3>09:30–09:45 | Check-In</h3></summary>
 
 1. **Check-In**
    - Name & Movement
@@ -136,19 +138,19 @@ We work with bodies, movement and each other a lot in this course, so we want to
 </details>
 
 <details>
-<summary>10:00–12:00 | Input</summary>
+<summary><h3>10:00–12:00 | Input</h3></summary>
 
 1. **Reference presentations** – groups of 2–3 [10min each]
 
 </details>
 
 <details>
-<summary>12:00–13:00 | Lunch</summary>
+<summary><h3>12:00–13:00 | Lunch</h3></summary>
 
 </details>
 
 <details>
-<summary>13:00–14:00 | Movement meets Typography-Exercises</summary>
+<summary><h3>13:00–14:00 | Type & Move Exercises</h3></summary>
 
 **Analog exercise in groups of 3–4.** One pencil, one sheet of paper, several bodies.
 
@@ -175,7 +177,7 @@ We work with bodies, movement and each other a lot in this course, so we want to
 </details>
 
 <details>
-<summary>14:00–16:00 | Group Formation</summary>
+<summary><h3>14:00–16:00 | Group Formation</h3></summary>
 
 1. **Interest-Mapping [30min]**
    - Fill out the following questions on post-its:
