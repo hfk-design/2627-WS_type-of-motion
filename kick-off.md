@@ -11,7 +11,7 @@ Welcome to Type of Motion! Over the first two days we'll get moving, get to know
 <details>
 <summary><h3>09:30–10:30 | Movement</h3></summary>
 
-1. **Arriving in the room [5min]**
+1. **Arriving in the room (optional) [5min]**
    - [Laraaji, Brian Eno – _Ambient 3: Day of Radiance_ (1980), stretched](https://www.youtube.com/watch?v=G1xuZSP05Jo)
    - Write a name tag (optionally pronouns).
    - Walk through the room at your own pace. Notice the floor, the light, the other people. You may talk.
@@ -121,7 +121,7 @@ We work with bodies, movement and each other a lot in this course, so we want to
      - _How does it work?_
      - _What interests you about it?_
    - Alternatively: prepare a short skill-share [10min] – show the others a technique or tool you know.
-   - → _link to [references](../references.md)_
+   - → \_link to [references](https://github.com/hfk-design/2627-WS_type-of-motion/blob/main/references.md)
 
 </details>
 

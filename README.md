@@ -23,10 +23,11 @@ This gives rise to new forms of type—at the intersection of experimental typog
 
 ## Quick Links
 
-- [Teams Channel](https://teams.microsoft.com/l/team/19%3A10CmBxecxEl7V9739UZZ4LLWbXWZ2790RhX9SxBxtlM1%40thread.tacv2/conversations?groupId=bc9f3f56-d6ba-4f88-b4b0-9fe9cf50c2c2&tenantId=09e769ef-38f0-4cf4-a9e2-194cccd24761)
 - [GitHub Course Site](https://github.com/hfk-design/2627-WS_type-of-motion)
-- [Movement Intros](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQpnbMWJDIC8RYaYG6F13fYNEgUBsOPL031of8_4EXWf73Y_qA)
+- [Teams Channel](https://teams.microsoft.com/l/team/19%3A10CmBxecxEl7V9739UZZ4LLWbXWZ2790RhX9SxBxtlM1%40thread.tacv2/conversations?groupId=bc9f3f56-d6ba-4f88-b4b0-9fe9cf50c2c2&tenantId=09e769ef-38f0-4cf4-a9e2-194cccd24761)
+- [Registration Form](https://forms.cloud.microsoft/e/XnnvYppid4)
 - [Code of Conduct](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQpRK2uE8mg8QpSTqk3s4c0qEgUBj6Wa4GS8UjritgwssLiV0Q)
+- [Movement Intros](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQpnbMWJDIC8RYaYG6F13fYNEgUBsOPL031of8_4EXWf73Y_qA)
 - [Consultation Slots](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQrXofKey7ctTaPDAaBWYX2HEgUBy1AUiRbKY-3IKC2g-KY63w)
 
 ## Dates & Times
@@ -43,22 +44,22 @@ Please do not choose any theory sessions on Tuesdays or Thursdays to avoid clash
 
 ### Dates
 
-| CW  |       | Date       | Info                                                                                                          |
-| --- | ----- | ---------- | ------------------------------------------------------------------------------------------------------------- |
-| 42  | TP&KN | Tue 13.10. | **Kick-Off**                                                                                                  |
-|     | TP&KN | Thu 15.10. | **Kick-Off**                                                                                                  |
-| 43  | KN    | Tue 20.10. | **_Workshop_**<br>**Body-Tracking w/ p5.js**                                                                  |
-|     | KN    | Thu 22.10. | **_12:15 – LunchTalk_**<br>**Simon Truffer**<br><br>**_Self-Learning Session_**<br>**Motion Fonts in Glyphs** |
-| 44  | TP    | Tue 27.10. |                                                                                                               |
-|     | TP    | Thu 29.10. |                                                                                                               |
-| 45  | KN    | Tue 03.11. |                                                                                                               |
-|     | KN    | Thu 05.11. | **Interim presentation**                                                                                      |
-| 46  | TP    | Tue 10.11. |                                                                                                               |
-|     | TP    | Thu 12.11. |                                                                                                               |
-| 47  | KN    | Tue 17.11. |                                                                                                               |
-|     | KN    | Thu 19.11. |                                                                                                               |
-| 48  | TP&KN | Tue 24.11. |                                                                                                               |
-|     | TP&KN | Thu 26.11. | **Final presentation**                                                                                        |
+| CW  |       | Date       | Info                                                                                                                            |
+| --- | ----- | ---------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 42  | TP&KN | Tue 13.10. | **[Kick-Off](https://github.com/hfk-design/2627-WS_type-of-motion/blob/main/kick-off.md)**                                      |
+|     | TP&KN | Thu 15.10. | **[Kick-Off](https://github.com/hfk-design/2627-WS_type-of-motion/blob/main/kick-off.md)**                                      |
+| 43  | KN    | Tue 20.10. | **_Workshop_**<br>**[Body-Tracking w/ p5.js](https://github.com/hfk-design/2627-WS_type-of-motion/blob/main/body-tracking.md)** |
+|     | KN    | Thu 22.10. | **_12:15 – LunchTalk_**<br>**Simon Truffer**<br><br>**_Self-Learning Session_**<br>**Motion Fonts in Glyphs**                   |
+| 44  | TP    | Tue 27.10. |                                                                                                                                 |
+|     | TP    | Thu 29.10. |                                                                                                                                 |
+| 45  | KN    | Tue 03.11. |                                                                                                                                 |
+|     | KN    | Thu 05.11. | **Interim presentation**                                                                                                        |
+| 46  | TP    | Tue 10.11. |                                                                                                                                 |
+|     | TP    | Thu 12.11. |                                                                                                                                 |
+| 47  | KN    | Tue 17.11. |                                                                                                                                 |
+|     | KN    | Thu 19.11. |                                                                                                                                 |
+| 48  | TP&KN | Tue 24.11. |                                                                                                                                 |
+|     | TP&KN | Thu 26.11. | **Final presentation**                                                                                                          |
 
 ### What to bring
 
