@@ -11,10 +11,7 @@ Welcome to Type of Motion! Over the first two days we'll get moving, get to know
 <details>
 <summary><h3>09:30–10:30 | Movement</h3></summary>
 
-1. **Arriving in the room (optional) [5min]**
-   - [Laraaji, Brian Eno – _Ambient 3: Day of Radiance_ (1980), stretched](https://www.youtube.com/watch?v=G1xuZSP05Jo)
-   - Write a name tag (optionally pronouns).
-   - Walk through the room at your own pace. Notice the floor, the light, the other people. You may talk.
+1. **Check-In: Name, Pronouns, Characterizing Motion [5min]**
 2. **Body Warm-Up [25min]**
    - → _Movement session w/ Karl Rummel_
    - Alternatively: → _[Improvisation Technologies – William Forsythe](https://improvisation-technologies.zkm.de/lectures/)_

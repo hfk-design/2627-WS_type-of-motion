@@ -53,9 +53,9 @@ Please do not choose any theory sessions on Tuesdays or Thursdays to avoid clash
 | 43  | KN    | Tue 20.10. | **_Workshop_**<br>**[Body-Tracking w/ p5.js](https://github.com/hfk-design/2627-WS_type-of-motion/blob/main/body-tracking.md)** |
 |     | KN    | Thu 22.10. | **_12:15 – LunchTalk_**<br>**Simon Truffer**<br><br>**_Self-Learning Session_**<br>**Motion Fonts in Glyphs**                   |
 | 44  | TP    | Tue 27.10. |                                                                                                                                 |
-|     | TP    | Thu 29.10. |                                                                                                                                 |
+|     | TP    | Thu 29.10. | **Interim presentation**                                                                                                        |
 | 45  | KN    | Tue 03.11. |                                                                                                                                 |
-|     | KN    | Thu 05.11. | **Interim presentation**                                                                                                        |
+|     | KN    | Thu 05.11. |                                                                                                                                 |
 | 46  | TP    | Tue 10.11. |                                                                                                                                 |
 |     | TP    | Thu 12.11. |                                                                                                                                 |
 | 47  | KN    | Tue 17.11. |                                                                                                                                 |
@@ -86,7 +86,7 @@ A [documentation](https://github.com/hfk-design/documents/blob/main/documentatio
 ### Assessment
 
 - **Form:** Creative presentation, documentation
-- **Interim presentation:** Thursday 05.11.
+- **Interim presentation:** Thursday 29.10.
 - **Final presentation:** Thursday 26.11.
 - **Documentation:** Thursday 03.12. latest
 
