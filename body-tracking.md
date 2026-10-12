@@ -1,5 +1,6 @@
 # Workshop: Body Tracking
 
+# DI 20.10.
 ## 09:30–10:00 | Movement Intro
 
 **Mirror & Trace** – in pairs
@@ -15,12 +16,15 @@
    - Introduce your partner to the group with one of their traces.
 
 ## 10:00–12:00 | Intro to p5.js
+## 13:00–17:00 | Intro to p5.js
 
 - resources
+
+# DO 22.10.
+## 09:30–12:00 | Your turn
+
 - starter kits
 - → [_Thoughts towards vibe-coding_](https://hfkbremen.sharepoint.com/:w:/s/S26BlockBTextTypeTools/cQrVSmIL7ODMSo9VGdRpfl-2EgUD1-pyCUHNydv1e8MlNIWOnQ)
-
-## 13–16:00 | Your turn
 
 1. **Start small**  
    ↳ Work with existing examples and try to make small changes at first.
