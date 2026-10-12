@@ -1,6 +1,23 @@
 # Workshop: Body Tracking
 
 # DI 20.10.
+## 09:30–10:00 | Intro
+
+## Constructing a letter w/ modules | 09:30–10:00
+- In groups of 2–3 people, use the modules or stencils to construct the letter A.
+- How many different A’s can you build? [15min]
+
+<img width="500" alt="bauhaus lettering modules" src="https://github.com/user-attachments/assets/10bef84c-53c3-4255-8e59-ed32f19ecded" /><br>
+Reference: <a href="https://www.moma.org/collection/works/2724" target="blank">
+  Josef Albers – Bauhaus Stencil Lettering System (Kombinations-Schrift) | 1926–1928
+</a>
+
+## 10:00–12:00 | Intro to p5.js
+## 13:00–17:00 | Intro to p5.js
+
+- resources
+
+# DO 22.10.
 ## 09:30–10:00 | Movement Intro
 
 **Mirror & Trace** – in pairs
@@ -14,14 +31,7 @@
    - Switch. Make at least 3 traces each.
 3. **Share [5min]**
    - Introduce your partner to the group with one of their traces.
-
-## 10:00–12:00 | Intro to p5.js
-## 13:00–17:00 | Intro to p5.js
-
-- resources
-
-# DO 22.10.
-## 09:30–12:00 | Your turn
+## 10:30–12:00 | Your turn
 
 - starter kits
 - → [_Thoughts towards vibe-coding_](https://hfkbremen.sharepoint.com/:w:/s/S26BlockBTextTypeTools/cQrVSmIL7ODMSo9VGdRpfl-2EgUD1-pyCUHNydv1e8MlNIWOnQ)
