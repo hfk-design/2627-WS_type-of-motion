@@ -95,7 +95,7 @@ We work with bodies, movement and each other a lot in this course, so we want to
    - By the end of the week: Find a group (2-4 people).
 4. **Important Dates**
    - LunchTalks @ CATE
-      - Simon Truffer | Thu 22.11. | 12:15
+      - Simon Truffer | 22.11. | 12:15
       - Élise Gay & Kévin Donnot | 26.11. | 12:15
       - Jenifer Becker | 10.12. | 10:00
       - Cihan Tamti | 10.12. | 12:15
