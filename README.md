@@ -87,8 +87,8 @@ A [documentation](https://github.com/hfk-design/documents/blob/main/documentatio
 
 - **Form:** Creative presentation, documentation
 - **Interim presentation:** Thursday 29.10.
-- **Final presentation:** Thursday 26.11.
-- **Documentation:** Thursday 03.12. latest
+- **Final presentation:** Thursday 05.11.
+- **Documentation:** Middle of the semester break
 
 ### Criteria
 
