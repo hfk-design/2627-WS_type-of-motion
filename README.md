@@ -61,7 +61,7 @@ Please do not choose any theory sessions on Tuesdays or Thursdays to avoid clash
 | 47  | KN    | Tue 17.11. |                                                                                                                                 |
 |     | KN    | Thu 19.11. |                                                                                                                                 |
 | 48  | TP&KN | Tue 24.11. |                                                                                                                                 |
-|     | TP&KN | Thu 26.11. | **Élise Gay & Kévin Donnot | 26.11. | 12:15** <br> **Final presentation**                                                                                                          |
+|     | TP&KN | Thu 26.11. | **12:15 – Élise Gay & Kévin Donnot** <br> **Final presentation**                                                                                                          |
 
 ### What to bring
 
