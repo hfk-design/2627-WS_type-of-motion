@@ -26,6 +26,7 @@ This gives rise to new forms of type—at the intersection of experimental typog
 ## Quick Links
 
 - [GitHub Course Site](https://github.com/hfk-design/2627-WS_type-of-motion)
+- [References](https://github.com/hfk-design/2627-WS_type-of-motion/blob/main/references.md)
 - [Teams Channel](https://teams.microsoft.com/l/team/19%3A10CmBxecxEl7V9739UZZ4LLWbXWZ2790RhX9SxBxtlM1%40thread.tacv2/conversations?groupId=bc9f3f56-d6ba-4f88-b4b0-9fe9cf50c2c2&tenantId=09e769ef-38f0-4cf4-a9e2-194cccd24761)
 - [Registration Form](https://forms.cloud.microsoft/e/XnnvYppid4)
 - [Code of Conduct](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQpRK2uE8mg8QpSTqk3s4c0qEgUBj6Wa4GS8UjritgwssLiV0Q)

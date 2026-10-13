@@ -27,6 +27,7 @@ So entstehen zwischen experimenteller Typografie, Interaktion und visueller Fors
 
 - [Teams-Kanal](https://teams.microsoft.com/l/team/19%3A10CmBxecxEl7V9739UZZ4LLWbXWZ2790RhX9SxBxtlM1%40thread.tacv2/conversations?groupId=bc9f3f56-d6ba-4f88-b4b0-9fe9cf50c2c2&tenantId=09e769ef-38f0-4cf4-a9e2-194cccd24761)
 - [GitHub-Kursseite](https://github.com/hfk-design/2627-WS_type-of-motion)
+- [Referenzen](https://github.com/hfk-design/2627-WS_type-of-motion/blob/main/references.md)
 - [Movement Intros](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQpnbMWJDIC8RYaYG6F13fYNEgUBsOPL031of8_4EXWf73Y_qA)
 - [Code of Conduct](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQpRK2uE8mg8QpSTqk3s4c0qEgUBj6Wa4GS8UjritgwssLiV0Q)
 - [Sprechstunden-Slots](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQrXofKey7ctTaPDAaBWYX2HEgUBy1AUiRbKY-3IKC2g-KY63w)
