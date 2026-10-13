@@ -84,20 +84,21 @@ We work with bodies, movement and each other a lot in this course, so we want to
 <details>
 <summary><h3>13:00–14:00 | Organisation</h3></summary>
 
-1. **Schedule** → [README](README.md#dates)
+1. **Questions & Expections**
+2. **Schedule** → [README](README.md#dates)
    - Kick-off, workshops, lunch talk, interim & final presentation
-2. **Requirements** → [README](README.md#requirements)
+3. **Requirements** → [README](README.md#requirements)
    - Attendance & active participation
    - No overlap with theory courses on TUE / THU, especially during inputs in the first weeks
    - Fill in registration form
    - Prepare shared [movement inputs](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQpnbMWJDIC8RYaYG6F13fYNEgUBsOPL031of8_4EXWf73Y_qA)
    - By the end of the week: Find a group (2-4 people).
-3. **Important Dates**
+4. **Important Dates**
    - LunchTalk w/ Simon Truffer: Thu 22.11.
    - Interims presentation: Thu 05.11.
    - Final presentation: Thu 26.11.
    - [Documentation](https://github.com/hfk-design/documents/blob/main/documentation-guidelines.md): Thu 03.12. latest
-4. **Karl’s performance**
+5. **Karl’s performance**
    - _[polaroids:rewind – Samir Akika, Unusual Symptoms w/ Karl Rummel](https://theaterbremen.de/de_DE/programm/polaroids-rewind.1398923#events)_, Theater Bremen, Kleines Haus
    - Sun 25.10., 18:30
    - Get your ticket with the KulturSemesterTicket Bremen 7 days in advance (Sun 18.10.)
