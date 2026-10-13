@@ -31,6 +31,8 @@ This gives rise to new forms of type—at the intersection of experimental typog
 - [Code of Conduct](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQpRK2uE8mg8QpSTqk3s4c0qEgUBj6Wa4GS8UjritgwssLiV0Q)
 - [Movement Intros](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQpnbMWJDIC8RYaYG6F13fYNEgUBsOPL031of8_4EXWf73Y_qA)
 - [Consultation Slots](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQrXofKey7ctTaPDAaBWYX2HEgUBy1AUiRbKY-3IKC2g-KY63w)
+- Skill-Share & Typography Questions & Self-Learning Sessions ..
+- LunchTalk Questionaire ..
 
 ## Dates & Times
 
