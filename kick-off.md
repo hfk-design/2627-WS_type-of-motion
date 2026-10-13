@@ -94,7 +94,12 @@ We work with bodies, movement and each other a lot in this course, so we want to
    - Prepare shared [movement inputs](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQpnbMWJDIC8RYaYG6F13fYNEgUBsOPL031of8_4EXWf73Y_qA)
    - By the end of the week: Find a group (2-4 people).
 4. **Important Dates**
-   - LunchTalk w/ Simon Truffer: Thu 22.11.
+   - LunchTalks @ CATE
+      - Simon Truffer | Thu 22.11. | 12:15
+      - Élise Gay & Kévin Donnot | 26.11. | 12:15
+      - Jenifer Becker | 10.12. | 10:00
+      - Cihan Tamti | 10.12. | 12:15
+      - Knoth & Renner | 17.12. | 12:15
    - Interims presentation: Thu 05.11.
    - Final presentation: Thu 26.11.
    - [Documentation](https://github.com/hfk-design/documents/blob/main/documentation-guidelines.md): Thu 03.12. latest
