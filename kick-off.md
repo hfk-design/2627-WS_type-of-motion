@@ -102,7 +102,7 @@ We work with bodies, movement and each other a lot in this course, so we want to
       - Knoth & Renner | 17.12. | 12:15
    - Interims presentation: Thu 05.11.
    - Final presentation: Thu 26.11.
-   - [Documentation](https://github.com/hfk-design/documents/blob/main/documentation-guidelines.md): Thu 03.12. latest
+   - [Documentation](https://github.com/hfk-design/documents/blob/main/documentation-guidelines.md): Mid of the semester break
 5. **Karl’s performance**
    - _[polaroids:rewind – Samir Akika, Unusual Symptoms w/ Karl Rummel](https://theaterbremen.de/de_DE/programm/polaroids-rewind.1398923#events)_, Theater Bremen, Kleines Haus
    - Sun 25.10., 18:30
