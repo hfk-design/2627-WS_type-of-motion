@@ -31,8 +31,8 @@ This gives rise to new forms of type—at the intersection of experimental typog
 - [Code of Conduct](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQpRK2uE8mg8QpSTqk3s4c0qEgUBj6Wa4GS8UjritgwssLiV0Q)
 - [Movement Intros](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQpnbMWJDIC8RYaYG6F13fYNEgUBsOPL031of8_4EXWf73Y_qA)
 - [Consultation Slots](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQrXofKey7ctTaPDAaBWYX2HEgUBy1AUiRbKY-3IKC2g-KY63w)
-- Skill-Share & Typography Questions & Self-Learning Sessions ..
-- LunchTalk Questionaire ..
+- [Skill-Share & Typography Questions](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQohWNb90JzuQ6TPdMz4bTYkEgUBhM9FuY8eFIXOi6Zno6-0hw)
+- [LunchTalk Questions](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQo74rp13okhQaxCkTaf62ZmEgUB_pVt34O7A2_X809Z85lqIw)
 
 ## Dates & Times
 
@@ -48,22 +48,22 @@ Please do not choose any theory sessions on Tuesdays or Thursdays to avoid clash
 
 ### Dates
 
-| CW  |       | Date       | Info                                                                                                                            |
-| --- | ----- | ---------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| 42  | TP&KN | Tue 13.10. | **[Kick-Off](https://github.com/hfk-design/2627-WS_type-of-motion/blob/main/kick-off.md)**                                      |
-|     | TP&KN | Thu 15.10. | **[Kick-Off](https://github.com/hfk-design/2627-WS_type-of-motion/blob/main/kick-off.md)**                                      |
-| 43  | KN    | Tue 20.10. | **_Workshop_**<br>**[Body-Tracking w/ p5.js](https://github.com/hfk-design/2627-WS_type-of-motion/blob/main/body-tracking.md)** |
-|     | KN    | Thu 22.10. | **_12:15 – LunchTalk_**<br>**Simon Truffer**<br><br>**_Self-Learning Session_**<br>**Motion Fonts in Glyphs**                   |
-| 44  | TP    | Tue 27.10. |                                                                                                                                 |
-|     | TP    | Thu 29.10. |                                                                                                        |
-| 45  | KN    | Tue 03.11. |                                                                                                                                 |
-|     | KN    | Thu 05.11. |    **Interim presentation**                                                                                                                              |
-| 46  | TP    | Tue 10.11. |                                                                                                                                 |
-|     | TP    | Thu 12.11. |                                                                                                                                 |
-| 47  | KN    | Tue 17.11. |                                                                                                                                 |
-|     | KN    | Thu 19.11. |                                                                                                                                 |
-| 48  | TP&KN | Tue 24.11. |                                                                                                                                 |
-|     | TP&KN | Thu 26.11. | **12:15 – Élise Gay & Kévin Donnot** <br> **Final presentation**                                                                                                          |
+| CW  |       | Date                                 | Info                                                                                                                            |
+| --- | ----- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| 42  | TP&KN | Tue 13.10.                           | **[Kick-Off](https://github.com/hfk-design/2627-WS_type-of-motion/blob/main/kick-off.md)**                                      |
+|     | TP&KN | Thu 15.10.                           | **[Kick-Off](https://github.com/hfk-design/2627-WS_type-of-motion/blob/main/kick-off.md)**                                      |
+| 43  | KN    | Tue 20.10.                           | **_Workshop_**<br>**[Body-Tracking w/ p5.js](https://github.com/hfk-design/2627-WS_type-of-motion/blob/main/body-tracking.md)** |
+|     | KN    | Thu 22.10.                           | **_12:15 – LunchTalk_**<br>**Simon Truffer**<br><br>**_Self-Learning Session_**<br>**Motion Fonts in Glyphs**                   |
+| 44  | TP    | Tue 27.10.                           |                                                                                                                                 |
+|     | TP    | Thu 29.10.                           |                                                                                                                                 |
+| 45  | KN    | Tue 03.11.                           |                                                                                                                                 |
+|     | KN    | Thu 05. **Interim presentation** 11. |                                                                                                                                 |
+| 46  | TP    | Tue 10.11.                           |                                                                                                                                 |
+|     | TP    | Thu 12.11.                           |                                                                                                                                 |
+| 47  | KN    | Tue 17.11.                           |                                                                                                                                 |
+|     | KN    | Thu 19.11.                           |                                                                                                                                 |
+| 48  | TP&KN | Tue 24.11.                           |                                                                                                                                 |
+|     | TP&KN | Thu 26.11.                           | **12:15 – Élise Gay & Kévin Donnot** <br> **Final presentation**                                                                |
 
 ### What to bring
 
@@ -83,14 +83,14 @@ Please do not choose any theory sessions on Tuesdays or Thursdays to avoid clash
 # Requirements
 
 Attendance, active participation and the design and development of a creative project using media of your choice.
-A [documentation](https://github.com/hfk-design/documents/blob/main/documentation-guidelines.md) has to be handed in by end of the course (max. 2 weeks later).
+A [documentation](https://github.com/hfk-design/documents/blob/main/documentation-guidelines.md) has to be handed in by Friday 05.03.27 latest.
 
 ### Assessment
 
 - **Form:** Creative presentation, documentation
-- **Interim presentation:** Thursday 29.10.
-- **Final presentation:** Thursday 05.11.
-- **Documentation:** Middle of the semester break
+- **Interim presentation:** Thursday 05.11.
+- **Final presentation:** Thursday 26.11.
+- **Documentation:** Friday 05.03.27 latest
 
 ### Criteria
 

@@ -30,6 +30,8 @@ So entstehen zwischen experimenteller Typografie, Interaktion und visueller Fors
 - [Movement Intros](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQpnbMWJDIC8RYaYG6F13fYNEgUBsOPL031of8_4EXWf73Y_qA)
 - [Code of Conduct](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQpRK2uE8mg8QpSTqk3s4c0qEgUBj6Wa4GS8UjritgwssLiV0Q)
 - [Sprechstunden-Slots](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQrXofKey7ctTaPDAaBWYX2HEgUBy1AUiRbKY-3IKC2g-KY63w)
+- [Skill-Share- & Typografie-Fragen](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQohWNb90JzuQ6TPdMz4bTYkEgUBhM9FuY8eFIXOi6Zno6-0hw)
+- [LunchTalk-Fragen](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQo74rp13okhQaxCkTaf62ZmEgUB_pVt34O7A2_X809Z85lqIw)
 
 ## Termine & Zeiten
 
@@ -72,14 +74,14 @@ Bitte Di / Do keine Theorieveranstaltung wählen, um Überschneidungen zu vermei
 # Anforderungen
 
 Anwesenheit, aktive Beteiligung sowie der Entwurf und die Entwicklung eines gestalterischen Projekts mit Medien eigener Wahl.
-Eine [Dokumentation](https://github.com/hfk-design/documents/blob/main/documentation-guidelines.md) muss zum Ende des Kurses abgegeben werden (max. 2 Wochen später).
+Eine [Dokumentation](https://github.com/hfk-design/documents/blob/main/documentation-guidelines.md) muss bis spätestens Fr 05.03.27 abgegeben werden.
 
 ### Prüfung
 
 - **Prüfungsform:** Gestalterische Präsentation, Dokumentation
 - **Zwischenpräsentation:** Do 05.11.
 - **Abschlusspräsentation:** Do 26.11.
-- **Dokumentation:** spätestens Do 03.12.
+- **Dokumentation:** spätestens Fr 05.03.27
 
 ### Kriterien
 

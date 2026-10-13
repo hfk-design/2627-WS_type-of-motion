@@ -95,14 +95,14 @@ We work with bodies, movement and each other a lot in this course, so we want to
    - By the end of the week: Find a group (2-4 people).
 4. **Important Dates**
    - LunchTalks @ CATE
-      - Simon Truffer | 22.11. | 12:15
-      - Élise Gay & Kévin Donnot | 26.11. | 12:15
-      - Jenifer Becker | 10.12. | 10:00
-      - Cihan Tamti | 10.12. | 12:15
-      - Knoth & Renner | 17.12. | 12:15
+     - Simon Truffer | 22.11. | 12:15
+     - Élise Gay & Kévin Donnot | 26.11. | 12:15
+     - Jenifer Becker | 10.12. | 10:00
+     - Cihan Tamti | 10.12. | 12:15
+     - Knoth & Renner | 17.12. | 12:15
    - Interims presentation: Thu 05.11.
    - Final presentation: Thu 26.11.
-   - [Documentation](https://github.com/hfk-design/documents/blob/main/documentation-guidelines.md): Mid of the semester break
+   - [Documentation](https://github.com/hfk-design/documents/blob/main/documentation-guidelines.md): Fri 05.03.27 latest
 5. **Karl’s performance**
    - _[polaroids:rewind – Samir Akika, Unusual Symptoms w/ Karl Rummel](https://theaterbremen.de/de_DE/programm/polaroids-rewind.1398923#events)_, Theater Bremen, Kleines Haus
    - Sun 25.10., 18:30
