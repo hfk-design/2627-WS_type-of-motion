@@ -114,7 +114,7 @@ We work with bodies, movement and each other a lot in this course, so we want to
 <summary><h3>14:00–15:00 | Input</h3></summary>
 
 1. **Input: On Typography and Movement (TP)**
-2. **Skill-Share: [Body-Tracking Examples](https://github.com/hfk-design/2627-WS_type-of-motion_variable-fonts-starter) (KN)**
+2. **Skill-Share: [Variable fonts & the web](https://github.com/hfk-design/2627-WS_type-of-motion_starter-kits) (KN)**
 
 </details>
 
