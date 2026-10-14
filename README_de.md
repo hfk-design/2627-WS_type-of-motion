@@ -19,20 +19,26 @@ So entstehen zwischen experimenteller Typografie, Interaktion und visueller Fors
 ## Kursinfo
 
 - **Lehrende:** Prof. Katharina Nejdl, Prof. Tania Prill
+- **Zusammen mit:**: Tim Schöning (2D-Werkstatt)
+- **Tutor\*innen:** Karl Rummel, Óscar Peña Kläschen
 - **Credits:** 9 CP (225 h Workload, je CP 25 h Workload inklusive Selbstlernzeit)
 - **Raum:** C.A.T.E. / 1.04.010 / Segment 4, EG
 - **Kommunikation:** über TEAMS. Hier werden Daten abgelegt und Nachrichten verfasst. Bitte nicht per E-Mail oder auf sonstigen Kanälen kommunizieren, danke.
 
 ## Kurs-Links
 
-- [Teams-Kanal](https://teams.microsoft.com/l/team/19%3A10CmBxecxEl7V9739UZZ4LLWbXWZ2790RhX9SxBxtlM1%40thread.tacv2/conversations?groupId=bc9f3f56-d6ba-4f88-b4b0-9fe9cf50c2c2&tenantId=09e769ef-38f0-4cf4-a9e2-194cccd24761)
-- [GitHub-Kursseite](https://github.com/hfk-design/2627-WS_type-of-motion)
-- [Referenzen](https://github.com/hfk-design/2627-WS_type-of-motion/blob/main/references.md)
-- [Movement Intros](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQpnbMWJDIC8RYaYG6F13fYNEgUBsOPL031of8_4EXWf73Y_qA)
+- [GitHub Course Site](https://github.com/hfk-design/2627-WS_type-of-motion)
+- [Teams Channel](https://teams.microsoft.com/l/team/19%3A10CmBxecxEl7V9739UZZ4LLWbXWZ2790RhX9SxBxtlM1%40thread.tacv2/conversations?groupId=bc9f3f56-d6ba-4f88-b4b0-9fe9cf50c2c2&tenantId=09e769ef-38f0-4cf4-a9e2-194cccd24761)
+- [Registration Form](https://forms.cloud.microsoft/e/XnnvYppid4)
 - [Code of Conduct](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQpRK2uE8mg8QpSTqk3s4c0qEgUBj6Wa4GS8UjritgwssLiV0Q)
-- [Sprechstunden-Slots](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQrXofKey7ctTaPDAaBWYX2HEgUBy1AUiRbKY-3IKC2g-KY63w)
-- [Skill-Share- & Typografie-Fragen](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQohWNb90JzuQ6TPdMz4bTYkEgUBhM9FuY8eFIXOi6Zno6-0hw)
-- [LunchTalk-Fragen](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQo74rp13okhQaxCkTaf62ZmEgUB_pVt34O7A2_X809Z85lqIw)
+
+- [References](https://github.com/hfk-design/2627-WS_type-of-motion/blob/main/references.md)
+- [Movement Intros](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQpnbMWJDIC8RYaYG6F13fYNEgUBsOPL031of8_4EXWf73Y_qA)
+- [Consultation Slots](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQrXofKey7ctTaPDAaBWYX2HEgUBy1AUiRbKY-3IKC2g-KY63w)
+
+- [Starter Kit: Variable Fonts](https://github.com/hfk-design/2627-WS_type-of-motion_starter-kits/tree/main/01-mouse-touch)
+- [Skill-Share & Typography Questions](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQohWNb90JzuQ6TPdMz4bTYkEgUBhM9FuY8eFIXOi6Zno6-0hw)
+- [LunchTalk Questions](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQo74rp13okhQaxCkTaf62ZmEgUB_pVt34O7A2_X809Z85lqIw)
 
 ## Termine & Zeiten
 
