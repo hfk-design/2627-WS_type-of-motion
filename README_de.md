@@ -32,9 +32,13 @@ So entstehen zwischen experimenteller Typografie, Interaktion und visueller Fors
 - [Registration Form](https://forms.cloud.microsoft/e/XnnvYppid4)
 - [Code of Conduct](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQpRK2uE8mg8QpSTqk3s4c0qEgUBj6Wa4GS8UjritgwssLiV0Q)
 
+---
+
 - [References](https://github.com/hfk-design/2627-WS_type-of-motion/blob/main/references.md)
 - [Movement Intros](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQpnbMWJDIC8RYaYG6F13fYNEgUBsOPL031of8_4EXWf73Y_qA)
 - [Consultation Slots](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQrXofKey7ctTaPDAaBWYX2HEgUBy1AUiRbKY-3IKC2g-KY63w)
+
+---
 
 - [Starter Kit: Variable Fonts](https://github.com/hfk-design/2627-WS_type-of-motion_starter-kits/tree/main/01-mouse-touch)
 - [Skill-Share & Typography Questions](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQohWNb90JzuQ6TPdMz4bTYkEgUBhM9FuY8eFIXOi6Zno6-0hw)
