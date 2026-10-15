@@ -299,23 +299,19 @@
   Baroque dance notation; the book that coined "choreography" as dance-writing.  
   ↳ <https://en.wikipedia.org/wiki/Beauchamp%E2%80%93Feuillet_notation>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Page_1_of_the_dance_la_Bouree_d%27Achille_published_in_1700_by_Feuillet.jpg" width="200">
-- 6.03 **Labanotation** (1928)  
-  Choreographic notation  
-  ↳ <https://en.wikipedia.org/wiki/Labanotation>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sei-solo-courante_Laban-score.jpg" width="200">
-- 6.04 **Benesh Movement Notation** — Rudolf & Joan Benesh (1955)  
+- 6.03 **Benesh Movement Notation** — Rudolf & Joan Benesh (1955)  
   Notation on a five-line stave seen from behind the dancer; standard in classical ballet.  
   ↳ <https://en.wikipedia.org/wiki/Benesh_Movement_Notation>  
   ↳ [Video](https://www.youtube.com/watch?v=eATNT4YA88I)  
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/BeneshWikipedia.jpg?width=1200" width="200">
-- 6.05 **Tanzschriften – ihre Geschichte und Methode** — Claudia Jeschke (1983)  
+- 6.04 **Tanzschriften – ihre Geschichte und Methode** — Claudia Jeschke (1983)  
   Illustrated history of dance notation from its beginnings to the present. Bad Reichenhall: Comes.  
   ↳ [SuUB Bremen](https://suche.suub.uni-bremen.de/peid=B18358921&LAN=DE&CID=9824313&index=L&Hitnr=1&dtyp=h&rtyp=a&Exemplar=1)  
   <img src="https://choreo-graphy-alphabet.hfk-bremen.de/assets/img/research/Tanzschriften-Abb-Grand-Jete-Benesh-Movement-Notation-S144.jpg" width="200">
-- 6.06 **Dance Notation: The Process of Recording Movement on Paper** (1984) / **Choreographics: A Comparison of Dance Notation Systems** (1989) — Ann Hutchinson Guest  
+- 6.05 **Dance Notation: The Process of Recording Movement on Paper** (1984) / **Choreographics: A Comparison of Dance Notation Systems** (1989) — Ann Hutchinson Guest  
   ↳ [Choreographics (archive.org)](https://archive.org/details/choreographicsco0000gues)  
   <img src="https://m.media-amazon.com/images/I/81oRS90lYfL._AC_UF894,1000_QL80_.jpg" width="200">
-- 6.07 **How to Write a Dance** — Anna Heyward, _The Paris Review_ (2015)  
+- 6.06 **How to Write a Dance** — Anna Heyward, _The Paris Review_ (2015)  
   ↳ <https://www.theparisreview.org/blog/2015/02/04/how-to-write-a-dance/>  
   <img src="https://www.theparisreview.org/blog/wp-content/uploads/2015/02/remyweb-copy.jpeg" width="200">
 
