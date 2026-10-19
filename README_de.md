@@ -58,22 +58,22 @@ Bitte Di / Do keine Theorieveranstaltung wählen, um Überschneidungen zu vermei
 
 ### Termine
 
-| KW  |       | Datum     | Info                                                                                                          |
-| --- | ----- | --------- | ------------------------------------------------------------------------------------------------------------- |
-| 42  | TP&KN | Di 13.10. | **Kick-Off**                                                                                                  |
-|     | TP&KN | Do 15.10. | **Kick-Off**                                                                                                  |
-| 43  | KN    | Di 20.10. | **_Workshop_**<br>**Body-Tracking w/ p5.js**                                                                  |
-|     | KN    | Do 22.10. | **_12:15 – LunchTalk_**<br>**Simon Truffer**<br><br>**_Self-Learning Session_**<br>**Motion Fonts in Glyphs** |
-| 44  | TP    | Di 27.10. |                                                                                                               |
-|     | TP    | Do 29.10. |                                                                                                               |
-| 45  | KN    | Di 03.11. |                                                                                                               |
-|     | KN    | Do 05.11. | **Zwischenpräsentation**                                                                                      |
-| 46  | TP    | Di 10.11. |                                                                                                               |
-|     | TP    | Do 12.11. |                                                                                                               |
-| 47  | KN    | Di 17.11. |                                                                                                               |
-|     | KN    | Do 19.11. |                                                                                                               |
-| 48  | TP&KN | Di 24.11. |                                                                                                               |
-|     | TP&KN | Do 26.11. | **Abschlusspräsentation**                                                                                     |
+| KW  |       | Datum     | Info                                                                                                                                                                                                                                                |
+| --- | ----- | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 42  | TP&KN | Di 13.10. | **[Kick-Off](https://github.com/hfk-design/2627-WS_type-of-motion/blob/main/kick-off.md)**                                                                                                                                                          |
+|     | TP&KN | Do 15.10. | **[Kick-Off](https://github.com/hfk-design/2627-WS_type-of-motion/blob/main/kick-off.md)**                                                                                                                                                          |
+| 43  | KN    | Di 20.10. | **_Workshop_**<br>**[Creative Coding w/ p5.js](https://github.com/hfk-design/2627-WS_type-of-motion/blob/main/body-tracking.md)**                                                                                                                   |
+|     | KN    | Do 22.10. | **_Examples_**<br>**[BodyTracking w/ p5.js](https://github.com/hfk-design/2627-WS_type-of-motion/blob/main/body-tracking.md)**<br><br>**_12:15 – LunchTalk_**<br>**Simon Truffer**<br><br>**_Self-Learning Session_**<br>**Motion Fonts in Glyphs** |
+| 44  | TP    | Di 27.10. |                                                                                                                                                                                                                                                     |
+|     | TP    | Do 29.10. |                                                                                                                                                                                                                                                     |
+| 45  | KN    | Di 03.11. |                                                                                                                                                                                                                                                     |
+|     | KN    | Do 05.11. | **Zwischenpräsentation**                                                                                                                                                                                                                            |
+| 46  | TP    | Di 10.11. |                                                                                                                                                                                                                                                     |
+|     | TP    | Do 12.11. |                                                                                                                                                                                                                                                     |
+| 47  | KN    | Di 17.11. |                                                                                                                                                                                                                                                     |
+|     | KN    | Do 19.11. |                                                                                                                                                                                                                                                     |
+| 48  | TP&KN | Di 24.11. |                                                                                                                                                                                                                                                     |
+|     | TP&KN | Do 26.11. | **12:15 – Élise Gay & Kévin Donnot**<br><br>**Abschlusspräsentation**                                                                                                                                                                               |
 
 ### Mitbringen
 

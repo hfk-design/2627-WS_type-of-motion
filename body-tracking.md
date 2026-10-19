@@ -1,23 +1,54 @@
 # Workshop: Body Tracking
 
 # DI 20.10.
+
 ## 09:30–10:00 | Intro
 
+- Check-In
+- Book tickets for [polaroid:rewind](https://theaterbremen.de/de_DE/programm/polaroids-rewind.1398923) (29.10.)
+- [Movement Intros – William Forsythe](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQpnbMWJDIC8RYaYG6F13fYNEgUBsOPL031of8_4EXWf73Y_qA)
+
 ## Constructing a letter w/ modules | 09:30–10:00
+
 - In groups of 2–3 people, use the modules or stencils to construct the letter A.
 - How many different A’s can you build? [15min]
 
 <img width="500" alt="bauhaus lettering modules" src="https://github.com/user-attachments/assets/10bef84c-53c3-4255-8e59-ed32f19ecded" /><br>
 Reference: <a href="https://www.moma.org/collection/works/2724" target="blank">
-  Josef Albers – Bauhaus Stencil Lettering System (Kombinations-Schrift) | 1926–1928
+Josef Albers – Bauhaus Stencil Lettering System (Kombinations-Schrift) | 1926–1928
 </a>
 
 ## 10:00–12:00 | Intro to p5.js
+
 ## 13:00–17:00 | Intro to p5.js
 
-- resources
+- [Why creative coding? – by Thomet & Nanni](https://observablehq.com/d/2762ed08578b82ae)
+- [Thoughts towards vibe coding](https://hfkbremen.sharepoint.com/:w:/s/S26BlockBTextTypeTools/IQDVSmIL7ODMSo9VGdRpfl-2AZVpDM3l9aiuDNqgzuRmd40)
+- Starter-Kits
+
+### References
+
+→ [Interactive Typography & Body Tracking](https://github.com/hfk-design/2627-WS_type-of-motion/blob/main/references.md#04--interactive-typography--body-tracking)
+
+**p5.js**
+
+- [Introduction](https://p5js.org/tutorials/#introduction)
+- [References](https://p5js.org/reference/)
+- [Examples](https://p5js.org/examples/)
+
+**Tutorials & Courses**
+
+- [Generative Gestaltung](http://www.generative-gestaltung.de/2/)
+- Patt Vira – e.g. [p5.js Typography Series](https://www.youtube.com/playlist?list=PL0beHPVMklwhDvna8wS-oJXuQO3ZCvDFl)
+- [The Coding Train](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/0-trailer/trailer)
+- [Parametric Design @FHP](https://parametric-design.fh-potsdam.de/en/) – e.g. [Loops](https://parametric-design.fh-potsdam.de/en/2d/03_2-loops/)
+- [Creative Coding @khweissensee](https://observablehq.com/@thometnanni/-/collection/teaching-weissensee)
+  - [Why to learn how to code?](https://observablehq.com/d/2762ed08578b82ae)
+  - [Basic Concepts](https://observablehq.com/@thometnanni/what)
+- [Tim Rodenbröker](https://trcc.timrodenbroeker.de/courses/)
 
 # DO 22.10.
+
 ## 09:30–10:00 | Movement Intro
 
 **Mirror & Trace** – in pairs
@@ -31,9 +62,10 @@ Reference: <a href="https://www.moma.org/collection/works/2724" target="blank">
    - Switch. Make at least 3 traces each.
 3. **Share [5min]**
    - Introduce your partner to the group with one of their traces.
+
 ## 10:30–12:00 | Your turn
 
-- starter kits
+- [Starter-Kits](https://github.com/hfk-design/2627-WS_type-of-motion_starter-kits/tree/main)
 - → [_Thoughts towards vibe-coding_](https://hfkbremen.sharepoint.com/:w:/s/S26BlockBTextTypeTools/cQrVSmIL7ODMSo9VGdRpfl-2EgUD1-pyCUHNydv1e8MlNIWOnQ)
 
 1. **Start small**  
