@@ -6,6 +6,7 @@
 
 - Check-In
 - Book tickets for [polaroid:rewind](https://theaterbremen.de/de_DE/programm/polaroids-rewind.1398923) (29.10.)
+- THU > 12:15 | Simon Truffer | see [LunchTalk Questions](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQo74rp13okhQaxCkTaf62ZmEgUB_pVt34O7A2_X809Z85lqIw)
 - [Movement Intros – William Forsythe](https://hfkbremen.sharepoint.com/:w:/s/W26TypeofMotion/cQpnbMWJDIC8RYaYG6F13fYNEgUBsOPL031of8_4EXWf73Y_qA)
 
 ## Constructing a letter w/ modules | 09:30–10:00
