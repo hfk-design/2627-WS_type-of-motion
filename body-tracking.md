@@ -47,6 +47,13 @@ Josef Albers – Bauhaus Stencil Lettering System (Kombinations-Schrift) | 192
   - [Basic Concepts](https://observablehq.com/@thometnanni/what)
 - [Tim Rodenbröker](https://trcc.timrodenbroeker.de/courses/)
 
+### Ideas
+
+- Tracking movement visually
+- Creating a letter from lines
+- Drawing a letter from shapes
+- Movement or transformation of type based on body-tracking
+
 # DO 22.10.
 
 ## 09:30–10:00 | Movement Intro
