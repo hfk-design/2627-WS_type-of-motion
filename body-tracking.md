@@ -74,7 +74,7 @@ Josef Albers – Bauhaus Stencil Lettering System (Kombinations-Schrift) | 192
 ## 10:30–12:00 | Your turn
 
 - [Starter-Kits](https://github.com/hfk-design/2627-WS_type-of-motion_starter-kits/tree/main)
-- → [_Thoughts towards vibe-coding_](https://hfkbremen.sharepoint.com/:w:/s/S26BlockBTextTypeTools/cQrVSmIL7ODMSo9VGdRpfl-2EgUD1-pyCUHNydv1e8MlNIWOnQ)
+- → [_Thoughts towards vibe-coding_](https://hfkbremen.sharepoint.com/:w:/s/S26BlockBTextTypeTools/IQDVSmIL7ODMSo9VGdRpfl-2AZVpDM3l9aiuDNqgzuRmd40)
 
 1. **Start small**  
    ↳ Work with existing examples and try to make small changes at first.
