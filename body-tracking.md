@@ -40,6 +40,7 @@ Josef Albers – Bauhaus Stencil Lettering System (Kombinations-Schrift) | 192
 **ml5.js**
 
 - [www.docs.ml5js.org](https://docs.ml5js.org/#/)
+- [p5.js x ml5.js example](https://editor.p5js.org/dansakamoto/sketches/rJoEw4ucX)
 
 **Tutorials & Courses**
 
