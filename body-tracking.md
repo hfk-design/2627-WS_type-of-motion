@@ -79,8 +79,8 @@ Josef Albers – Bauhaus Stencil Lettering System (Kombinations-Schrift) | 192
 1. **Start small**  
    ↳ Work with existing examples and try to make small changes at first.
 1. **Concept & sketching**  
-   ↳ w/ pen & paper
-   ↳ https://www.instagram.com/p/CriIEVGrjnL/?hl=en&img_index=1
+   ↳ w/ pen & paper  
+   ↳ https://www.instagram.com/p/CriIEVGrjnL/?hl=en&img_index=1  
    ↳ https://www.instagram.com/p/Cm_TfRJLJxg/?hl=en&img_index=5
 1. **Choose & simplify**  
    ↳ Try to summarize your concept into one sentence to decide what the most important part is. Leave everything else away. You can try out different sentences for your concept to test what feels strongest.
