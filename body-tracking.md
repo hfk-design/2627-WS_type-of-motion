@@ -59,17 +59,9 @@ Josef Albers – Bauhaus Stencil Lettering System (Kombinations-Schrift) | 192
 
 ## 09:30–10:00 | Movement Intro
 
-**Mirror & Trace** – in pairs
+**William Forsythe** 
 
-1. **Mirror [10min]**
-   - Stand facing each other. One person leads a slow movement, the other mirrors it.
-   - Switch roles after 2 minutes. In the last round, nobody leads – try to move together.
-2. **Trace [15min]**
-   - Person A makes a movement (e.g. a gesture, a turn, a jump).
-   - Person B draws the movement on paper (A3, marker) without looking at the paper for too long.
-   - Switch. Make at least 3 traces each.
-3. **Share [5min]**
-   - Introduce your partner to the group with one of their traces.
+- [Improvisation Technologies](https://improvisation-technologies.zkm.de/lectures/)
 
 ## 10:30–12:00 | Your turn
 
@@ -88,3 +80,9 @@ Josef Albers – Bauhaus Stencil Lettering System (Kombinations-Schrift) | 192
    ↳ https://www.instagram.com/nahuel.gerth/p/CrDZMAFLVhh/?hl=en&img_index=1
 1. **Try, Fail & Reiterate**  
    ↳ Embrace errors, glitches and frustration. Focus on the long-term process of learning instead of short-term outcomes.
+
+## Additional Concepts
+
+1. [Arrays](https://p5js.org/reference/p5/Array/)
+2. [Functions](https://p5js.org/reference/p5/function/)
+3. [For-Loops](https://p5js.org/reference/p5/for/)
