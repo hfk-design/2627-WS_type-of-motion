@@ -91,3 +91,11 @@ Josef Albers – Bauhaus Stencil Lettering System (Kombinations-Schrift) | 192
 1. [Arrays](https://p5js.org/reference/p5/Array/)
 2. [Functions](https://p5js.org/reference/p5/function/)
 3. [For-Loops](https://p5js.org/reference/p5/for/)
+
+## 13–16:00 | Glyphs Self-Learning Session
+
+1. Download Glyphs 4 Trial Session (or use the Mac’s in the 2D-Workshop)
+2. Choose a letter
+3. Sketch different motions
+4. Draw a line font in Glyphs (w/ stroke extrusion). Now add another master and make it move!
+
