@@ -1,5 +1,3 @@
-→ [DE](README_de.md)
-
 <img src="https://katharinanejdl.com/images/cover.png" alt="Type of Motion" width="50">
 
 # Type of Motion – _Experimental typography between body, movement and interaction_
