@@ -2,6 +2,7 @@
 
 # Type of Motion – _Experimental typography between body, movement and interaction_
 
+
 Which movement creates which form? How does typography behave when it becomes fluid within a (digital or interactive) space and is in constant motion?
 
 Typography moves beyond the two-dimensionality of paper or a screen. Instead, we explore it as a physical practice. The starting point here is not the finished letter, but the movement that creates it: a gesture, a line, a rhythm.
